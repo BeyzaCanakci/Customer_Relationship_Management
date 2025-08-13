@@ -20,7 +20,7 @@ FLO aims to develop a roadmap for its sales and marketing activities. To make me
 
 ## Dataset
 
-The dataset consists of information from OmniChannel customers who shopped at FLO in 2020–2021. Key fields include:
+The dataset consists of information from OmniChannel customers who shopped at FLO in 2020–2021. But I can not share the dataset because of the privacy of the bootcamp. Key fields include:
 
 - master_id: Unique customer ID
 - order_channel: Shopping channel (Android, iOS, Desktop, Mobile, Offline)
